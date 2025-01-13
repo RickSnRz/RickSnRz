@@ -4,8 +4,8 @@
 ```javascript
 const RickSnRz = {
   pronouns: "he" | "they",
-  code: [Javascript, HTML, CSS, Php, Java],
-  tools: [React, Spring boot, Node, Bootstrap, Docker],
+  code: [Javascript, HTML&CSS, Php, Java],
+  tools: [React, Spring boot, Node, Tailwind, Docker],
   architecture: ["microservices",  "design system pattern"],
   challenge: "My great challenge is to become a great full stack programmer, for which I am specializing
              in microservices architecture."
